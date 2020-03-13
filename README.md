@@ -1,5 +1,5 @@
 # ProjectEuler
 
-Problems solved on Project Euler to practice my python and math skills.
+Problems solved on Project Euler to get familiar with Python.
 
 Check ProjectEuler.net for the original problems. 
